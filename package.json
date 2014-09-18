@@ -1,5 +1,6 @@
 {
   "name": "html-janitor",
+  "version": "1.0.0",
   "scripts": {
     "test": "karma start --single-run"
   },
